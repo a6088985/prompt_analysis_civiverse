@@ -8,7 +8,9 @@ This project is designed to analyze and visualize prompts of users interacting w
 To run the scripts, you can use the following commands:
 
 - Preprocessing: Run the preprocessing script to prepare the data.
-python preprocessing.py
+  ```sh
+  python preprocessing.py
+
 
 - Topic Modeling (with BertTopic): Run the analysis script to analyze the data.
 python analysis.py
