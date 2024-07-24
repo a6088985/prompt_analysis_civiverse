@@ -13,12 +13,12 @@ To run the scripts, you can use the following commands:
 
 - Topic Modeling (with BertTopic): Run the analysis script to analyze the data.
   ```sh
-python analysis.py
+  python analysis.py
 
 - NER Processing: Run the named entity recognition processing script.
   ```sh
-python ner_processing.py
+  python ner_processing.py
 
 - Visualization: Run the visualization script to generate visualizations.
   ```sh
-python visualization.py
+  python visualization.py
