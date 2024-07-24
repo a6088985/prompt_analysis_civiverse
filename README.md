@@ -16,5 +16,5 @@ python analysis.py
 - NER Processing: Run the named entity recognition processing script.
 python ner_processing.py
 
-Visualization: Run the visualization script to generate visualizations.
+- Visualization: Run the visualization script to generate visualizations.
 python visualization.py
