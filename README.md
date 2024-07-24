@@ -2,11 +2,8 @@
 
 This project is designed to analyze and visualize prompts of users interacting with Text-to-Image (TTI) models in the open-source platform Civitai.
 
-## Table of Contents
 
 - [Usage](#usage)
-
-##Usage
 
 To run the scripts, you can use the following commands:
 
@@ -15,7 +12,6 @@ python preprocessing.py
 
 - Topic Modeling (with BertTopic): Run the analysis script to analyze the data.
 python analysis.py
-
 
 - NER Processing: Run the named entity recognition processing script.
 python ner_processing.py
